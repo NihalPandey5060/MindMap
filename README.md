@@ -4,7 +4,7 @@ A minimalistic Streamlit web application for running inference with pre-trained 
 
 ## Features
 
-- Upload and load pre-trained models (.pkl or .h5 files)
+- Takes in text input and gives out the personality type 
 - Simple and intuitive user interface
 - Multiple input types (numbers, dropdowns, sliders)
 - Automatic interaction history logging
