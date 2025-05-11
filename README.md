@@ -49,7 +49,3 @@ streamlit run app.py
 - Model files are temporarily stored during loading
 - All interactions are logged with timestamps 
 
-## Credits
-
-- Nihal Pandey
-- Ishan Pandey(GOAT)
